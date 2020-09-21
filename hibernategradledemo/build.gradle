@@ -1,0 +1,17 @@
+plugins {
+    id 'java'
+}
+
+group 'org.mysimplehacks'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile 'junit:junit:4.12'
+    compile 'org.hibernate:hibernate-core:6.0.0.Alpha6'
+    compile 'com.h2database:h2:1.4.200'
+    compile 'log4j:log4j:1.2.17'
+}
