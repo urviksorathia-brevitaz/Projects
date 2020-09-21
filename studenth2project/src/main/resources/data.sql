@@ -1,0 +1,5 @@
+insert into student values (101, 'Person1', 'Java')
+insert into student values (102, 'Person2', 'Python')
+insert into student values (103, 'Person3', 'Java')
+insert into student values (104, 'Person4', 'Java')
+insert into student values (105, 'Person5', 'Python')
